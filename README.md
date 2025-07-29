@@ -19,7 +19,7 @@ It uses the [`face_recognition`](https://github.com/ageitgey/face_recognition) l
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/YOUR_USERNAME/face-image-sorter.git
+git clone https://github.com/amphitter/face-image-sorter.git
 cd face-image-sorter
 ````
 
