@@ -128,5 +128,3 @@ Created by **Devansh Singh**
 
 * [LinkedIn](https://www.linkedin.com/in/devansh-singh-amphitter/)
 * [GitHub](https://github.com/amphitter)
-
-````
